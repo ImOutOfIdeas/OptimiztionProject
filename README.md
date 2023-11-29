@@ -6,24 +6,16 @@ This repository contains an optimization project aimed at finding the most energ
 
 ## Objective
 
-Our objective is to develop an algorithm or model that suggests a combination of ingredients for a Chipotle bowl that:
+Our objective is to suggest a combination of ingredients for a Chipotle bowl that:
 
-- Maximizes energy intake.
+- Maximizes caloric intake.
 - Ensures affordability for OSU students.
 - Maintains a balanced and healthy nutritional profile.
 
-## Methodology
+## Dataset
 
-### Dataset
+We've collected data on the nutritional content and costs of various ingredients available at Chipotle.
 
-We've collected extensive data on the nutritional content and costs of various ingredients available at Chipotle.
-
-### Optimization Model
-
-We've implemented an optimization model, leveraging algorithms or methodologies (such as linear programming or heuristics), to:
-- Maximize energy intake while considering the cost of ingredients.
-- Account for dietary preferences and restrictions of OSU students.
-- 
 ## Results
 
 Upon execution, the program will provide:
