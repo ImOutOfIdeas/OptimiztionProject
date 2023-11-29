@@ -1,5 +1,4 @@
-# Chipotle Bowl Optimization Project
-
+# Chipotle Bowl Optimization Projects
 ## Overview
 
 This repository contains an optimization project aimed at finding the most energy-efficient Chipotle bowl for OSU students. The goal is to identify the optimal combination of ingredients that maximizes energy intake while maintaining an affordable cost and ensuring nutritional balance.
