@@ -13,6 +13,7 @@ Our objective is to suggest a combination of ingredients for a Chipotle bowl tha
 ## Dataset
 
 We've collected data on the nutritional content and costs of various ingredients available at Chipotle.
+[Chipotle Nutrition Calculator](https://www.chipotle.com/nutrition-calculator)
 
 ## Results
 
